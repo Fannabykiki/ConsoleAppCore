@@ -1,0 +1,15 @@
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.csproj.AssemblyReference.cache
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.AssemblyInfoInputs.cache
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.AssemblyInfo.cs
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.csproj.CoreCompileInputs.cache
+D:\Rookies\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.exe
+D:\Rookies\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.deps.json
+D:\Rookies\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.runtimeconfig.json
+D:\Rookies\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.dll
+D:\Rookies\ConsoleAppCore\bin\Debug\net6.0\ConsoleAppCore.pdb
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.dll
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\refint\ConsoleAppCore.dll
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.pdb
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ConsoleAppCore.genruntimeconfig.cache
+D:\Rookies\ConsoleAppCore\obj\Debug\net6.0\ref\ConsoleAppCore.dll
