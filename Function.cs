@@ -32,7 +32,6 @@ namespace ConsoleAppCore
             foreach (Member item in list)
             {
                 
-                   
                 System.Console.WriteLine(item);
 
                 break;
